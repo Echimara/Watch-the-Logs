@@ -1,8 +1,5 @@
 # Language: Bash (Bourne Again SHell)
 #!/bin/bash
-# This bash script monitors and reports who logs in to and out of whichever Linux machine the script is run on. Reports are printed every 10 seconds (if any)
-# along with the date and number of logged-in users. A custom handler is present
-# to trap the SIGINT or ctrl+C shortcut once before terminating the script.
 
 # HOW TO RUN: Into a terminal environment, type:
 # 1) chmod +x minor2.sh   --> to make sure the file is executable 

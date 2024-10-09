@@ -1,3 +1,5 @@
+# Author: Chi
+
 #!/bin/bash
 
 # HOW TO RUN: Into a terminal environment, type:

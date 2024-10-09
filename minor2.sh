@@ -1,4 +1,3 @@
-# Language: Bash (Bourne Again SHell)
 #!/bin/bash
 
 # HOW TO RUN: Into a terminal environment, type:
